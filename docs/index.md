@@ -15,6 +15,7 @@ layout: default
   <th style="text-align: center">rivtCalc (installers)</th>
   <th style="text-align: center">rivtDocs</th>
   <th style="text-align: center">rivtManual</th>
+</tr>
 </thead>
 <tbody>
 <tr>
