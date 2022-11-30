@@ -13,8 +13,8 @@ layout: default
 <tr class="header">
   <th style="text-align: center">rivt (API)</th>
   <th style="text-align: center">rivtCalc (installers)</th>
-  <th style="text-align: center">rivtDocs</th></tr>
-  <th style="text-align: center">rivtManual</th></tr>
+  <th style="text-align: center">rivtDocs</th>
+  <th style="text-align: center">rivtManual</th>
 </thead>
 <tbody>
 <tr>
