@@ -1,0 +1,20 @@
+title: rivt
+logo: /assets/img/rivt01a.png
+show_downloads: false
+remote_theme: pages-themes/minimal@v0.2.0
+description: a natural way to write, format and share engineering calculations
+google_analytics:
+# Enable or disable the site search
+# Supports true (default) or false
+# Aux links for the upper right navigation
+# aux_links:
+#  "Just the Docs on GitHub":
+#    - "//github.com/just-the-docs/just-the-docs"
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: false
+# Heading anchor links appear on hover over h1-h6 tags in page content
+# allowing users to deep link to a particular heading on a page.
+#
+# Supports true (default) or false
+heading_anchors: true
+color_scheme: rivt
