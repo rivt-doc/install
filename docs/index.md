@@ -12,35 +12,35 @@ layout: default
 <tr class="header">
   <th style="text-align: center">rivt (API)</th>
   <th style="text-align: center">rivtCalc (installers)</th>
-  <th style="text-align: center">rivtDocs (documentation)</th></tr>
+  <th style="text-align: center">rivtDocs</th></tr>
+  <th style="text-align: center">rivtManual</th></tr>
 </thead>
 <tbody>
 <tr>
   <td style="text-align: center"><a href="https://github.com/rivtcalc/rivt"> <img src="./assets/img/rivt01a.png" width="60" height="40" /></a></td>
   <td style="text-align: center"><a href="https://github.com/rivtcalc/rivtinstall"> <img src="./assets/img/rivt_install.png" width="60" height="40" /></a></td>
-  <td style="text-align: center"><a href="https://github.com/rivtcalc/rivtdocs"> <img src="./assets/img/rivtdoc2a.png" width="60" height="40" /></a></td>
+  <td style="text-align: center"><a href="https://rivtdocs.net"> <img src="./assets/img/rivtdoc09.png" width="60" height="40" /></a></td>
+  <td style="text-align: center"><a href="https://rivt.info"> <img src="./assets/img/rivtman01.png" width="60" height="40" /></a></td>
 </tr>
 </tbody>
 </table>
 
 ## Introduction
 
-Open source software tools, when used for general engineering calculations,
-will increase sharing and improve productivity.
+Open source software tools will increase sharing and improve productivity if used for general engineering calculations.
 
 Many engineering technologies change slowly. Design procedures become fixed by
-legal codes and standards for years at time. This means that, rather than new
-technologies or methods, good engineering design work is based on skillful use
-of established technologies fit together to meet specific project requirements.
+legal codes and standards for years at time. This means that good engineering
+design work is based on skillful fitting together  of established technologies, rather than developing new technologies or methods.
 
-Useful calculations derive and convey the reasoning behind the fitting. If they
-are easy to share and edit, then prior similar designs become efficient
-starting points for new designs. An initial compendium from existing designs
-can be developed into a final design more efficiently then starting from
-scratch. This depends on a calculation tool adapted to exchange and
-integration.
+Calculations establish and convey the reasoning behind the designs and
+integration. If they are easy to share and edit, then prior similar designs
+become efficient starting points for new designs. An initial calculation
+assembled from existing designs can be developed into a final design more
+efficiently then starting from scratch. But a calculation tool adapted to
+exchange and integration is needed.
 
-Many high-quality calculation programs are in widespread use. Unfortunately
+Many high-quality calculation programs are in general use. Unfortunately
 they include barriers to widespread calculation sharing (see table). Most of
 them have high initial and recurring software costs as well as strict
 limitations on computing devices. File formats and features often change in a
@@ -55,7 +55,7 @@ quality, and slower technology transfer.
 <img src="./assets/img/table1.png" width="1000" height="180" />
 
 Through a standard sharing framework the engineering professions have an
-opportunity to produce extensive, general calculation libraries that can be
+opportunity to produce extensive, reusable calculation libraries that can be
 recombined in efficient and productive ways for new designs. This model of
 shared, incremental improvement using text-based documents is perhaps **the**
 major reason behind recent rapid advances in software development and
