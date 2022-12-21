@@ -12,7 +12,7 @@ layout: default
 <thead>
 <tr class="header">
   <th style="text-align: center">rivt (API)</th>
-  <th style="text-align: center">rivtCalc (installers)</th>
+  <th style="text-align: center">rivtCalc</th>
   <th style="text-align: center">rivtCode</th>
   <th style="text-align: center">rivtDocs</th>
 </tr>
@@ -21,8 +21,8 @@ layout: default
 <tr>
   <td style="text-align: center"><a href="https://github.com/rivtcalc/rivt"> <img src="./assets/img/rivt01a.png" width="60" height="40" /></a></td>
   <td style="text-align: center"><a href="https://github.com/rivtcalc/rivtcalc"> <img src="./assets/img/rivt_install.png" width="60" height="40" /></a></td>
-  <td style="text-align: center"><a href="https://rivtdocs.net"> <img src="./assets/img/rivtdoc09.png" width="60" height="40" /></a></td>
-  <td style="text-align: center"><a href="https://rivt.info"> <img src="./assets/img/rivtman01.png" width="60" height="40" /></a></td>
+  <td style="text-align: center"><a href="https://github.com/rivtCode.net"> <img src="./assets/img/rivtdoc09.png" width="60" height="40" /></a></td>
+  <td style="text-align: center"><a href="https://rivtDocs.net"> <img src="./assets/img/rivtman01.png" width="60" height="40" /></a></td>
 </tr>
 </tbody>
 </table>
